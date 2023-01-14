@@ -1,7 +1,8 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 
-#test comment_something
+#change from mayank branch
+
 posts = [
 
     {
