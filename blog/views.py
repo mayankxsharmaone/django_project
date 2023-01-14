@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 
-#test comment
+#test comment_something
 posts = [
 
     {
